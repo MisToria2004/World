@@ -1,0 +1,39 @@
+body {
+    background: #cecece;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+* {
+    font-family: Rubik;
+}
+
+.card {
+    background-color: #fff;
+    width: 226px;
+    
+    position: relative;
+    
+}
+
+.foto{
+    
+}
+
+.text{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 18px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    word-break: break-all;
+    position: absolute;
+    padding: 80px 10px 10px;
+    background: linear-gradient(180deg, rgba(112, 192, 91, 0) 0%, #70C05B 82.81%);
+}
+
+
+
+
